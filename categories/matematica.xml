@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>aLoNsolml's Vlog! (Publicaciones sobre matemática)</title><link>https://alonsolml.github.io/</link><description></description><atom:link href="https://alonsolml.github.io/categories/matematica.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2018 &lt;a href="mailto:alonso.ogueda@gmail.com"&gt;Alonso Ogueda Oliva&lt;/a&gt; </copyright><lastBuildDate>Sun, 13 May 2018 21:05:26 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>El comienzo</title><link>https://alonsolml.github.io/posts/el-comienzo/</link><dc:creator>Alonso Ogueda Oliva</dc:creator><description>&lt;div&gt;&lt;div class="section" id="un-poco-de-historia"&gt;
+&lt;h2&gt;Un poco de historia&lt;/h2&gt;
+&lt;p&gt;Más de una vez hemos querido responder dudas a través del conocimiento colectivo de internet y más de una vez hemos salido victoriosos. Entre mis compañeros de la universidad era común bromear con que cada pregunta que teníamos ya estaba resuelta en Stack Overflow (bendito seas). Sin embargo, muchas veces nos veíamos abrumados por los tecnicismos.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="objetivo-de-este-blog"&gt;
+&lt;h2&gt;Objetivo de este blog&lt;/h2&gt;
+&lt;p&gt;Como no me considero experto ni en siquiera una área del conocimiento humano, por lo mismo entiendo la frustración de quienes buscan aprender sin tener que leer un libro introductorio de 500 páginas pero a la hora de recurrir a internet pareciera que cada foro está escrito en chino (sin ofernder, es un modismo de mi país).&lt;/p&gt;
+&lt;p&gt;En este blog quiero plasmar conocimiento, tips, noticias, consejos, ideas  y lo que sea relativo a la ciencia (y uno que otro meme). En particular, a lo largo de mis cortos 25 años me he decantado por el lado de la matemática y la estadística, tratando de complementar con programación, visualizaciones, todo con el fin de tener un mejor entendimiento de la humanidad y la naturaleza.&lt;/p&gt;
+&lt;p&gt;Los primeros posts serán para quienes les gustaría conocer algunas prácticas relativas al análisis de datos, por ejemplo aquellos con poco background en ciencias de la computación y el solo hecho de abrir la terminal de comandos le asusta (no es que me haya pasado, pero si me pasó).&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="palabras-finales-de-este-primer-post"&gt;
+&lt;h2&gt;Palabras finales de este primer post&lt;/h2&gt;
+&lt;p&gt;Creo que la divulgación científica  es una labor importante el día de hoy, es importante educarnos, porque la ignorancia es el peor enemigo de la humanidad. Los avances científicos están avanzando a pasos agigantados, no nos podemos quedar atrás.&lt;/p&gt;
+&lt;p&gt;Gracias por estar aquí! Toda colaboración es bienvenida :)&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>ciencia</category><category>estadística</category><category>matemática</category><category>programación</category><guid>https://alonsolml.github.io/posts/el-comienzo/</guid><pubDate>Sun, 13 May 2018 20:19:37 GMT</pubDate></item></channel></rss>
