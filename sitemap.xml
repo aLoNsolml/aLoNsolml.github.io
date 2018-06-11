@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>https://alonsolml.github.io/archive.html</loc>
-  <lastmod>2018-05-13T22:14:00Z</lastmod>
+  <lastmod>2018-06-11T00:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://alonsolml.github.io/categories/</loc>
@@ -47,7 +47,7 @@
  </url>
  <url>
   <loc>https://alonsolml.github.io/en/archive.html</loc>
-  <lastmod>2018-05-13T22:14:00Z</lastmod>
+  <lastmod>2018-06-11T00:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://alonsolml.github.io/en/categories/</loc>
@@ -79,6 +79,11 @@
   <xhtml:link rel="alternate" hreflang="es" href="https://alonsolml.github.io/pages/sobre-mi/" />
  </url>
  <url>
+  <loc>https://alonsolml.github.io/en/posts/dmc-datathon-gasto-fiscal/</loc>
+  <lastmod>2018-06-11T00:27:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="https://alonsolml.github.io/posts/dmc-datathon-gasto-fiscal/" />
+ </url>
+ <url>
   <loc>https://alonsolml.github.io/en/posts/el-comienzo/</loc>
   <lastmod>2018-05-13T21:05:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="es" href="https://alonsolml.github.io/posts/el-comienzo/" />
@@ -95,6 +100,10 @@
   <loc>https://alonsolml.github.io/pages/sobre-mi/</loc>
   <lastmod>2018-05-13T21:53:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://alonsolml.github.io/en/pages/sobre-mi/" />
+ </url>
+ <url>
+  <loc>https://alonsolml.github.io/posts/dmc-datathon-gasto-fiscal/</loc>
+  <lastmod>2018-06-11T00:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://alonsolml.github.io/posts/el-comienzo/</loc>
